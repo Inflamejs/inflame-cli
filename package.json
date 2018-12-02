@@ -1,0 +1,22 @@
+{
+  "name": "inflame-cli",
+  "version": "0.0.0",
+  "description": "Command line application to create and manage Inflame apps.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inflamejs/inflame-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Inflamejs/inflame-cli/issues"
+  },
+  "homepage": "https://github.com/Inflamejs/inflame-cli#readme"
+}
